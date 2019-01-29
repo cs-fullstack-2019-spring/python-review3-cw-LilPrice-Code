@@ -1,3 +1,6 @@
+### KEY: 1 POINTS
+### KEY: Comments Man. Sorry1
+
 # Python Review Misc Topics
 
 ### Problem 1:
